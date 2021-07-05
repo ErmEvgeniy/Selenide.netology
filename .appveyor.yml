@@ -1,4 +1,4 @@
-image: Windows
+image: Ubuntu
 
 stack: jdk 11
 
